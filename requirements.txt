@@ -30,7 +30,7 @@ scipy
 six==1.15.0
 soupsieve==2.2
 threadpoolctl==2.1.0
-traitlets==5.0.5
+traitlets
 urllib3==1.26.3
 wcwidth==0.2.5
 Werkzeug==1.0.1
