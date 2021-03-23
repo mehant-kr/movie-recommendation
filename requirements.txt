@@ -6,6 +6,7 @@ chardet==4.0.0
 click==7.1.2
 decorator==4.4.2
 Flask==1.1.2
+gunicorn==20.0.4
 idna==2.10
 ipython
 ipython-genutils
@@ -14,8 +15,8 @@ jedi==0.18.0
 Jinja2==2.11.3
 joblib==1.0.1
 MarkupSafe==1.1.1
-numpy==1.20.1
-pandas==1.2.2
+numpy
+pandas
 parso==0.8.1
 pexpect==4.8.0
 pickleshare==0.7.5
@@ -26,7 +27,7 @@ python-dateutil==2.8.1
 pytz==2021.1
 requests==2.25.1
 scikit-learn==0.24.1
-scipy==1.6.1
+scipy
 six==1.15.0
 soupsieve==2.2
 threadpoolctl==2.1.0
